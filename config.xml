@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.pageslider" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PageSlider</name>
+<widget id="com.phonegap.explorer" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Explorer</name>
     <description>
-        Sample Mobile / PhoneGap Application with Page Slider
+        Sample Mobile / PhoneGap Application with explorer
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
