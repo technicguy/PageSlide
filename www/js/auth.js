@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var url="http://192.168.1.101/dev/phonegap/login/auth.php?callback=?";
+	var url="http://nobleadvt.com/emp/login/auth.php?callback=?";
     
     //Login Function
     $("#login").click(function(){
