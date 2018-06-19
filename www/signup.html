@@ -9,27 +9,31 @@
     <title>Create an Account</title>
 </head>
 <body>
-    <div class="bar bar-header">
-        <h1 class="title">Create an Account</h1>
-        <a href="login.html" class="button button-clear button-royal">Login</a>
+
+    <div class="bar-header">
+		<img src="img/logo.png" class="brand">          
     </div>
-    <div class="padding" style="margin-top:75px;">
-        <label class="item-input">
-            <span class="input-label">Full Name</span>
-            <input type="text" placeholder="Sundaravel" id="fullname">
+	 
+	
+    <div class="padding" >
+        <label class="item-input">            
+            <input type="text" placeholder="Full Name" id="fullname">
         </label>
-        <label class="item-input">
-            <span class="input-label">Email</span>
+        <label class="item-input">            
             <input type="email" placeholder="email@domain.com" id="email">
         </label>
-        <label class="item-input">
-            <span class="input-label">Password</span>
+        <label class="item-input">           
             <input type="password" placeholder="password" id="password">
         </label>
         <label class="item-input">
             <button class="button button-block button-positive" id="signup">Create an Account</button>
         </label>
-        
+        <label class="item-input"> 
+			<div class="opt" >
+			<a href="login.html" class="button button-clear button-royal">Login</a> / 
+            <a href="forget-password.html" class="button button-clear button-royal">Forget Password ?</a>
+			</div>
+        </label>   
         
     </div>
     <script type="text/javascript" src="cordova.js"></script>

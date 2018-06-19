@@ -10049,8 +10049,8 @@ progress {
 }
 
 .button.button-positive {
-    border-color: #17A6DF;
-    background-color: #25a6d9;
+    border-color: #faa20b;
+    background-color: #faa20b;
     color: #fff
 }
 
@@ -11458,3 +11458,30 @@ a.dark {
     -webkit-transition-duration: 0s;
     transition-duration: 0s
 }
+body{   
+    background-color:#1e3259;
+    color:#fff;
+}
+body.index{      
+    background-color:#fff;
+    color:#000;
+}
+.bar-header img{
+    position:relative;
+    left: 40%;
+    padding-top:20px;   
+}
+button.button-positive{
+
+    border-radius: 5px;
+}
+.item-input .opt{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 90%;
+    text-align: center;
+    line-height:42px;
+    margin:0px auto;
+    
+}
+.padding { padding: 0px 15px 0px 0px;}
