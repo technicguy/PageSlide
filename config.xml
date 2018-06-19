@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.explorer" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Explorer</name>
+<widget id="com.phonegap.login" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Login</name>
     <description>
-        Sample Mobile / PhoneGap Application with explorer
+        Sample Mobile / PhoneGap Application with Login
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
