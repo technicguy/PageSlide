@@ -11466,10 +11466,13 @@ body.index{
     background-color:#fff;
     color:#000;
 }
-.bar-header img{
-    position:relative;
-    left: 40%;
+img.brand{    
     padding-top:20px;   
+    margin:0px auto;    
+}
+input{
+    background: #faffbd !important;
+    padding:5px 15px !important;
 }
 button.button-positive{
 
